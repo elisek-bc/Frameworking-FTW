@@ -24,3 +24,7 @@ This website was made with bootstrap CSS framework.
 This exercise was a hell of an exercise. I chose Bootstrap to work with, because I want to be able to use it later on, because a lot of companies work with this.
 Getting divs into columns was easy, adding colors and margins and padding as well.
 The navigation was very very difficult though. I can't get it how it needs to be.
+
+## Update (May 2019)
+
+<strong>After working with bootstrap several times, I managed to control it quite well. It's a handy tool, especially for positioning, and I will use it a lot in the future.</strong>
